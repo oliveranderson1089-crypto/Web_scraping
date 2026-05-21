@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Claude / 本地工具
+.claude/
+
+# 爬虫产物（体积大，请勿入库）
+downloads/
+
+# OS
+.DS_Store
+Thumbs.db
